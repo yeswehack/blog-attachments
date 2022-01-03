@@ -6,6 +6,7 @@ The enumeration of subdomains is part of an almost mandatory process when attack
 
 To help you choose the best equipment for your daily hunt, we have compiled a detailed comparison of these tools.
 
+The full vlog post is available hee : [https://blog.yeswehack.com/yeswerhackers/subdomains-tools-review-full-detailed-comparison](https://blog.yeswehack.com/yeswerhackers/subdomains-tools-review-full-detailed-comparison)
 
 Results:
 
