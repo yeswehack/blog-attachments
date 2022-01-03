@@ -9,10 +9,10 @@ To help you choose the best equipment for your daily hunt, we have compiled a de
 
 Results:
 
-* [AltPerm results](./AltPerm+results.html)
-* [AltPerm tools](./AltPerm+tools.html)
-* [DNS results](./DNS+results.html)
-* [DNS tools](./DNS+tools.html)
-* [Passive sources](./Passive+Sources.html)
-* [Passive results](./Passive+results.html)
+* [AltPerm results](./AltPerm_results.html)
+* [AltPerm tools](./AltPerm_tools.html)
+* [DNS results](./DNS_results.html)
+* [DNS tools](./DNS_tools.html)
+* [Passive sources](./Passive_Sources.html)
+* [Passive results](./Passive_results.html)
 * [Tools](./Tools.html)
