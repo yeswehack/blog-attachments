@@ -12,7 +12,7 @@ Results:
 * [AltPerm results](./AltPerm_results.html)
 * [AltPerm tools](./AltPerm_tools.html)
 * [DNS results](./DNS_results.html)
-* [DNS tools](./DNS_tools.html)
+* [DNS tools](./DNS_Tools.html)
 * [Passive sources](./Passive_Sources.html)
 * [Passive results](./Passive_results.html)
 * [Tools](./Tools.html)
