@@ -9,10 +9,10 @@ To help you choose the best equipment for your daily hunt, we have compiled a de
 
 Results:
 
-* [AltPerm results](./2021-12-subdomain-tools-review/AltPerm+results.html)
-* [AltPerm tools](./2021-12-subdomain-tools-review/AltPerm+tools.html)
-* [DNS results](./2021-12-subdomain-tools-review/DNS+results.html)
-* [DNS tools](./2021-12-subdomain-tools-review/DNS+tools.html)
-* [Passive sources](./2021-12-subdomain-tools-review/Passive+Sources.html)
-* [Passive results](./2021-12-subdomain-tools-review/Passive+results.html)
-* [Tools](./2021-12-subdomain-tools-review/Tools.html)
+* [AltPerm results](./AltPerm+results.html)
+* [AltPerm tools](./AltPerm+tools.html)
+* [DNS results](./DNS+results.html)
+* [DNS tools](./DNS+tools.html)
+* [Passive sources](./Passive+Sources.html)
+* [Passive results](./Passive+results.html)
+* [Tools](./Tools.html)
